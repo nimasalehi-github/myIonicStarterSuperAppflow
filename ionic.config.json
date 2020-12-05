@@ -1,0 +1,8 @@
+{
+  "name": "myionicstartersuperappflow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular",
+  "id": "b3879c46"
+}
